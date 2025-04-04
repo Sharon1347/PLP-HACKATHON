@@ -6,7 +6,9 @@ Welcome to my Hackathon Portfolio!This repository highlights the innovative proj
 
 I'm Sharon Koech — a tech-savvy professional with a multidisciplinary edge. My background blends cybersecurity principles, clean UI design, and strategic support skills. I approach every project with a focus on functionality, efficiency, and security.
 
-To learn more about my professional journey and design sensibility, visit my portfolio website.
+📊 I’ve also integrated **Google Analytics via Google Tag Manager** (embedded in the index.html file) into my portfolio site to monitor traffic and user engagement. This reflects my practical knowledge of **web performance tracking**, **data-driven decision-making**, and **basic SEO awareness** — crucial for improving user experience and site reach.
+
+To learn more about my professional journey and design sensibility, visit my [portfolio website](https://sharonkoech.netlify.app/).
 
 🔨 Technologies & Tools
 
